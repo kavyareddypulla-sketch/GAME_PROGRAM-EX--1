@@ -1,11 +1,11 @@
 # GAME_PROGRAM-EX--1
 # EXP:1 Implementing various effects in a material such as emissive, roughness and metallic properties in Unreal Engine
 
-Aim:
+# Aim:
 
 To implement and demonstrate various material effects in Unreal Engine, including emissive, roughness, and metallic properties, using the Material Editor.
 
-Procedure
+# Procedure:
 
 Create a New Material:
 
@@ -21,7 +21,7 @@ Add a Scalar Parameter node and connect it to the Metallic input. 0 = non-metal,
 
 Save the material. Apply it to any mesh in the scene (like a sphere or cube) to preview the results.
 
-## Output
+# Output
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b2b9f697-2fa8-4074-954c-2cbe056a8ad2" />
 <img width="1192" height="791" alt="image" src="https://github.com/user-attachments/assets/42943cfe-7747-4212-98f0-21aadfb4d4b6" />
 
