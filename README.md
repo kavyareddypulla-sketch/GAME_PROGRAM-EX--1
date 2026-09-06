@@ -25,7 +25,7 @@ Save the material. Apply it to any mesh in the scene (like a sphere or cube) to 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b2b9f697-2fa8-4074-954c-2cbe056a8ad2" />
 <img width="1192" height="791" alt="image" src="https://github.com/user-attachments/assets/42943cfe-7747-4212-98f0-21aadfb4d4b6" />
 
-## Result:
+# Result:
 Successfully implemented a material in Unreal Engine showcasing:
 
 • Emissive glow using emissive color and intensity.
